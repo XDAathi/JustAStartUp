@@ -3,7 +3,7 @@ import TextType from '../../components/TextType/TextType'
 
 export default function Landing(){
     return(
-        <section className="fixed inset-0 flex items-center overflow-hidden">
+        <section className="fixed inset-0 flex items-center overflow-hidden text-left">
             {/* Light Background */}
             <div className="absolute inset-0 bg-gray-50" />
             
